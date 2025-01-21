@@ -20,4 +20,9 @@
 
 ![Tobs](https://github.com/user-attachments/assets/b44568a2-1791-4c26-a5fd-0056cb371264)
 
+### Date:
+It will display an error as shown in the image below. To view the correct information, you must remove the 'start' part from the URL and set the specified date, which is before (2017, 8, 23) as shown in the code.
+![image](https://github.com/user-attachments/assets/d2750d32-8f2e-4c03-aa83-8e7a6eafa660)
+
+And this will be the result if we choose the date 08222017
 ![date](https://github.com/user-attachments/assets/f0ccf084-1c2f-4547-a8da-fc4836ef5b1c)
